@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(103, 101, 99);
+}
+img {
+    border-radius: 10%;
+}
+text {
+    font-weight: 800;
+    color: rgb(183, 232, 254);
+}
+h3 {
+    color: rgb(50, 30, 230);
+}
